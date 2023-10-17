@@ -53,7 +53,6 @@ Feel free to experiment with different inputs and texts to find the longest comp
 
 For more details on how the program works and the Java code behind it, please refer to the source code and documentation in this repository.
 
-Happy searching!
 ``` 
 
 Customize the usage and example sections based on the specifics of your Java code for searching the longest compounded word in the given question.
