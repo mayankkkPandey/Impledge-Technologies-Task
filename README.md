@@ -49,7 +49,7 @@ The program will output:
 Longest compounded word: applebanana (apple + banana)
 ```
 
-####Approach to Finding the Longest Compounded Word
+### Approach to Finding the Longest Compounded Word 
 Read and Parse Input:
 
 If the input is a text file, read the contents of the file and split it into individual words.
